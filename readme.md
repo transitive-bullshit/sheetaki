@@ -10,4 +10,4 @@ See our [quick start](https://docs.saasify.sh/#/quick-start) for a walkthrough o
 
 ## License
 
-MIT © [transitive-bullshit](https://github.com/transitive-bullshit)
+MIT © [Saasify](https://github.com/saasify-sh/saasify)
