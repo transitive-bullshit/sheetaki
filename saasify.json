@@ -1,4 +1,5 @@
 {
   "name": "sheetaki-demo",
-  "openapi": "./openapi.json"
+  "openapi": "./openapi.json",
+  "immutable": true
 }
